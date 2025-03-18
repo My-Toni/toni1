@@ -13,7 +13,7 @@ const products = [
 	{ name: "Panel Ram 7GB Cpu 175%", price: 17000, category: "PANEL BOT WHATSAPP" },
 	{ name: "Panel Ram 8GB Cpu 200%", price: 20000, category: "PANEL BOT WHATSAPP" },
 	{ name: "Panel Ram 9GB Cpu 225%", price: 23000, category: "PANEL BOT WHATSAPP" },
-	{ name: "Panel Ram 10GB Cpu 250%", price: 27000, category: "PANEL BOT WHATSAPP" },
+	{ name: "Panel Ram 10GB Cpu 250%", price: 25000, category: "PANEL BOT WHATSAPP" },
 	{ name: "Panel Ram Unli Cpu Unli", price: 15000, category: "PANEL BOT WHATSAPP" },
 	{ name: "Vps Ram 1 Core 1", price: 20000, category: "VIRTUAL PRIVATE SERVER" },
 	{ name: "Vps Ram 2 Core 1", price: 30000, category: "VIRTUAL PRIVATE SERVER" },
